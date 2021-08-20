@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+Sitem Yayında !
+https://react-records-app-frontend.vercel.app/
+adresinden projeme bakabilirsiniz. 
+Giriş bilgileri;
+Username: aliş
+Password: 123456
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
